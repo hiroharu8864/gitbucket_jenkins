@@ -1,4 +1,4 @@
-gitbucket gitbucket_jenkins
+gitbucket_jenkins Cookbook
 ==================
 Install gitbucket and jenkins to Vegrant(CentOS 6.5)  
 VagrantのCentOS 6.5環境にgitbucket, jenkinsのインストールを行う。  
