@@ -102,8 +102,6 @@ script "put jenkins" do
   EOL
 end
 
-# not working
-# Scriptメニューで記述しても起動しない。
 service "tomcat" do
   supports :start => true, :restart => true
   action [ :enable, :start ]
